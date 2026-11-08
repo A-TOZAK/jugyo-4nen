@@ -6,3 +6,6 @@
 __pycache__/
 .DS_Store
 /.publish-ok
+/_見本/
+/00_引き継ぎメモ_*.md
+/assets/
