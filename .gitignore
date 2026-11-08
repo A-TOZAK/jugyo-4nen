@@ -1,0 +1,8 @@
+# 公開するのは docs/ と README だけ。組み立ての道具と下書きは手元に置く
+/*.py
+/*.pdf
+/_tmp/
+/SITE_URL
+__pycache__/
+.DS_Store
+/.publish-ok
